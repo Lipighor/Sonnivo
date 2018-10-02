@@ -2,7 +2,7 @@
 ## a touch type Bengali keyboard layout
 
 Sonnivo is a Keyboard layout for Bengali designed by Sadh. It is easy-to-learn for those who already know to type in English, 
-because this layout is configured in the similar fashion that of English QWERTY layout. It is free of cost and available for download from here[+] (7z|zip|rar)[-]. The layout manual is available in PDF, PNG and JPEGformat.
+because this layout is configured in the similar fashion that of English QWERTY layout. It is free of cost and available for download from [here](http://ns.nafsadh.com/sonnivo.html) (7z|zip|rar)[-]. The layout manual is available in PDF, PNG and JPEGformat.
 
 Layout
 ![bn-SNV layout image](http://nafsadh.com//img/bn-SNV.png)
