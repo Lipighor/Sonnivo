@@ -7,8 +7,10 @@ Sonnivo
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lipighor/Sonnivo.svg)
 
 
-Sonnivo is a Keyboard layout for Bengali designed by Sadh. It is easy-to-learn for those who already know to type in English, 
-because this layout is configured in the similar fashion that of English QWERTY layout. It is free of cost and available for download from [here](http://ns.nafsadh.com/sonnivo.html) (7z|zip|rar)[-].
+Sonnivo is a Keyboard layout for Bengali designed by Sadh. It is easy-to-learn 
+for those who already know to type in English, because this layout is configured 
+in the similar fashion that of English QWERTY layout. It is free of cost and 
+available for download as described below.
 
 ### Layout
 ![bn-SNV layout image](http://nafsadh.com//img/bn-SNV.png)  
